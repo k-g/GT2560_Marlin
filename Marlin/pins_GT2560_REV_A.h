@@ -30,8 +30,8 @@
   #error "Oops!  Make sure you have 'Arduino Mega' selected from the 'Tools -> Boards' menu."
 #endif
 
-#define BOARD_NAME				"Geeetech GT2560 Rev. A"
-#define DEFAULT_MACHINE_NAME	"Prusa i3 Pro B"
+#define BOARD_NAME				"Geeetech GT2560 Rev. A+"
+#define DEFAULT_MACHINE_NAME	"Frankenstein"
 #define LARGE_FLASH true
 
 //

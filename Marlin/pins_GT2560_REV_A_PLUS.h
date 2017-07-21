@@ -28,4 +28,5 @@
 #include "pins_GT2560_REV_A.h"
 
 #define BOARD_NAME			"Geeetech GT2560 Rev. A+"
+#define DEFAULT_MACHINE_NAME	"Frankenstein"
 #define SERVO0_PIN			11 
